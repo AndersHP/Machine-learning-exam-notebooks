@@ -1,4 +1,4 @@
-# Machine-learning-exam-notebooks
+# Machine-learning-notebooks
 
 9 notebooks made as prep for machine learning oral exam at AU, and for future reference. Images are borrowed from Caltech's ML course taught by Professor Yaser Abu-Mostafa
 https://work.caltech.edu/lectures.html.
