@@ -1,7 +1,6 @@
 # Machine-learning-notebooks
 
-9 notebooks made as prep for machine learning oral exam at AU, and for future reference. Images are borrowed from Caltech's ML course taught by Professor Yaser Abu-Mostafa
-https://work.caltech.edu/lectures.html.
+9 notebooks made as preparation for machine learning oral exam at AU, and for future reference. 
 
 1: Linear models
 
@@ -21,3 +20,8 @@ https://work.caltech.edu/lectures.html.
 
 9: Unsupervised learning - Outlier detection
 
+Video resources:
+- Caltech lectures, https://work.caltech.edu/lectures.html.
+- 3 Blue 1 Brown, https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+- Viktor Lavrenko, https://www.youtube.com/user/victorlavrenko
+- Alexander Ihler, https://www.youtube.com/user/atihler
